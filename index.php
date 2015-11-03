@@ -11,10 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // testtesttesttest
-        // test committ
-        // test committ igen
-        //test
+       //removed code
         ?>
     </body>
 </html>
